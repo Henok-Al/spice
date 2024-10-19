@@ -23,10 +23,11 @@ const Track = () => {
               </svg>
 
               <h2 className="title-font font-medium text-lg text-gray-900">
-                Premium Tshirts
+                Premium Berbere
               </h2>
               <p className="leading-relaxed">
-                Our T-Shirts are 100% made of cotton.
+                Our Berbere spice blend is made from the finest Ethiopian
+                ingredients.
               </p>
             </div>
           </div>
@@ -50,10 +51,11 @@ const Track = () => {
               </svg>
 
               <h2 className="title-font font-medium text-lg text-gray-900">
-                Premium Tshirts
+                Premium Shiro
               </h2>
               <p className="leading-relaxed">
-                Our T-Shirts are 100% made of cotton.
+                Our Shiro spice blend is perfect for making delicious Ethiopian
+                dishes.
               </p>
             </div>
           </div>
@@ -77,10 +79,10 @@ const Track = () => {
               </svg>
 
               <h2 className="title-font font-medium text-lg text-gray-900">
-                Premium Tshirts
+                Premium Coffee
               </h2>
               <p className="leading-relaxed">
-                Our T-Shirts are 100% made of cotton.
+                Our Premium Coffee is sourced from the finest Ethiopian beans.
               </p>
             </div>
           </div>

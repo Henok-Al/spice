@@ -155,7 +155,7 @@ const CartPage = () => {
                                   </div>
                                   <div className="mt-1 flex items-end">
                                     <p className="text-sm font-medium text-gray-900">
-                                      ETB{price}
+                                      ETB {price}
                                     </p>
                                   </div>
                                 </div>

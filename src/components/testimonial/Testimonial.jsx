@@ -20,66 +20,57 @@ const Testimonial = () => {
             {/* Testimonial 1 */}
             <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
               <div className="h-full text-center">
-                <img
-                  alt="testimonial"
-                  className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://ecommerce-sk.vercel.app/img/kamal.png"
-                />
                 <p className="leading-relaxed">
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  <span className="text-2xl text-orange-500">“</span>
+                  YebaleSpices offers an incredible variety of spices that have
+                  transformed my cooking. The quality is unmatched, and the
+                  flavors are authentic and rich. I highly recommend their
+                  products to anyone who loves Ethiopian cuisine.
+                  <span className="text-2xl text-orange-500">”</span>
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-orange-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  Kamal Nayan Upadhyay
+                  Alemayehu
                 </h2>
-                <p className="text-gray-500">Senior Product Designer</p>
+                <p className="text-gray-500">Chef</p>
               </div>
             </div>
 
             {/* Testimonial 2 */}
             <div className="lg:w-1/3 lg:mb-0 mb-6 p-4">
               <div className="h-full text-center">
-                <img
-                  alt="testimonial"
-                  className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://www.devknus.com/img/gawri.png"
-                />
                 <p className="leading-relaxed">
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  <span className="text-2xl text-orange-500">“</span>
+                  I've been using YebaleSpices for my home cooking, and I'm
+                  absolutely delighted with the results. The spices are fresh
+                  and aromatic, making every dish taste extraordinary. Thank
+                  you, YebaleSpices!
+                  <span className="text-2xl text-orange-500">”</span>
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-orange-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  S Mishra
+                  Makeda
                 </h2>
-                <p className="text-gray-500">UI Develeoper</p>
+                <p className="text-gray-500">Home Cook</p>
               </div>
             </div>
 
             {/* Testimonial 3 */}
             <div className="lg:w-1/3 lg:mb-0 p-4">
               <div className="h-full text-center">
-                <img
-                  alt="testimonial"
-                  className="w-20 h-20 mb-8 object-cover object-center rounded-full inline-block border-2 border-gray-200 bg-gray-100"
-                  src="https://firebasestorage.googleapis.com/v0/b/devknus-official-database.appspot.com/o/images%2FScreenshot%202023-07-07%20at%202.20.32%20PM-modified.png?alt=media&token=324ddd80-2b40-422c-9f1c-1c1fa34943fa"
-                />
                 <p className="leading-relaxed">
-                  Edison bulb retro cloud bread echo park, helvetica stumptown
-                  taiyaki taxidermy 90's cronut +1 kinfolk. Single-origin coffee
-                  ennui shaman taiyaki vape DIY tote bag drinking vinegar cronut
-                  adaptogen squid fanny pack vaporware.
+                  <span className="text-2xl text-orange-500">“</span>
+                  YebaleSpices has become my go-to source for authentic
+                  Ethiopian spices. The customer service is excellent, and the
+                  products are of the highest quality. I couldn't be happier
+                  with my experience.
+                  <span className="text-2xl text-orange-500">”</span>
                 </p>
                 <span className="inline-block h-1 w-10 rounded bg-orange-500 mt-6 mb-4" />
                 <h2 className="text-gray-900 font-medium title-font tracking-wider text-sm uppercase">
-                  XYZ{" "}
+                  Tsegaye
                 </h2>
-                <p className="text-gray-500">CTO</p>
+                <p className="text-gray-500">Food Enthusiast</p>
               </div>
             </div>
           </div>
